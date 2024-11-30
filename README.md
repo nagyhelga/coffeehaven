@@ -1,0 +1,2 @@
+# coffeehaven
+GitHub Pages
